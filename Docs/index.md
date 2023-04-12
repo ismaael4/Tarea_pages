@@ -12,8 +12,8 @@ Aquí te dejamos algunos enlaces útiles:
 
 --------------
 ## Otras webs
-- [Motos](/moto.md) - Página sobre motos de Nuestro dominio
-- [Supermotos](/supermotos.md) - Página sobre supermotos dentro de nuestro dominio.
+- [Motos](./moto.md) - Página sobre motos de Nuestro dominio
+- [Supermotos](./supermotos.md) - Página sobre supermotos dentro de nuestro dominio.
 --------------
 
 ## Imágenes

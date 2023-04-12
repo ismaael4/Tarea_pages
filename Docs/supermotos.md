@@ -11,8 +11,8 @@ Aquí te dejamos algunos enlaces útiles:
 - [MCN](https://www.motorcyclenews.com/) - Revista de motociclismo.
 --------------
 ## Otras webs
-- [Coches](/index.md) - Página sobre motos de Nuestro dominio
-- [Motos](/moto.md) - Página sobre supermotos dentro de nuestro dominio.
+- [Coches](./index.md) - Página sobre motos de Nuestro dominio
+- [Motos](./moto.md) - Página sobre supermotos dentro de nuestro dominio.
 --------------
 
 
