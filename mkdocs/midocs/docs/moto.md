@@ -11,8 +11,8 @@ Aquí te dejamos algunos enlaces útiles:
 - [Cycle World](https://www.cycleworld.com/) - Portal web sobre motocicletas.
 --------------
 ## Otras webs
-- [Coches](/index.md) - Página sobre motos de Nuestro dominio
-- [Supermotos](/supermotos.md) - Página sobre supermotos dentro de nuestro dominio.
+- [Coches](./index.md) - Página sobre motos de Nuestro dominio
+- [Supermotos](./supermotos.md) - Página sobre supermotos dentro de nuestro dominio.
 --------------
 
 ## Imágenes
